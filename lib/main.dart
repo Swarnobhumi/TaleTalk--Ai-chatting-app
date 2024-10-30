@@ -11,10 +11,10 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyB7w4fELrG9QaOQd29LlSShRCOOcYVy-iA",
-          appId: "1:460209411396:android:3f1556cba522a4f6e5b311",
-          messagingSenderId: "460209411396",
-          projectId: "taletalk-480eb"));
+          apiKey: "apiKey",
+          appId: "appId",
+          messagingSenderId: "id",
+          projectId: "projectId"));
   await Hive.initFlutter();
 
   runApp(const MyApp());

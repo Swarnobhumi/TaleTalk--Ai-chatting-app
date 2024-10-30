@@ -1,2 +1,16 @@
-# TaleTalk (Ai chatting app) 
- The Smart Messaging Assistant is an innovative application that enhances communication through AI-driven features:  Message Suggestions: AI analyzes context to suggest optimal responses for seamless conversations. Image Generation: Users can create contextually relevant images to enhance their messages. PDF Generation: Effortlessly create and share professional-quality PDFs directly in the chat. Message Scheduling: Users can schedule messages for timely delivery without manual intervention. This app aims to make communication more efficient, creative, and organized.
+# taletalk
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

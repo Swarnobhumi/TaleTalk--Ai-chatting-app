@@ -1,0 +1,1 @@
+com.github.s0nerik.fast_contacts

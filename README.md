@@ -9,4 +9,15 @@ PDF Generation: The application provides users with the ability to create profes
 Message Scheduling: Users can schedule messages to be sent at a later time, ensuring timely communication without the need for manual intervention. This feature is ideal for reminders, birthday wishes, or any other messages that require precise timing.
 By combining these advanced features, the Smart Messaging Assistant aims to revolutionize the way users interact, making communication more efficient, creative, and organized.
 
+## Welcome Page
 ![WhatsApp Image 2024-10-31 at 10 21 57](https://github.com/user-attachments/assets/a4f4876d-6948-4634-8e23-0e119cf67430)
+## Login Page
+![WhatsApp Image 2024-10-31 at 10 21 57 (1)](https://github.com/user-attachments/assets/793b1419-f604-4cab-895f-cf4a9306623a)
+## Phone Number Page
+![WhatsApp Image 2024-10-31 at 10 21 57 (2)](https://github.com/user-attachments/assets/9b722754-ecd1-4b87-848e-b98ed654ce16)
+## Chat Page
+![WhatsApp Image 2024-10-31 at 10 21 58](https://github.com/user-attachments/assets/8de2234f-1141-4586-8c27-c6a3116f199a)
+## Contact Page
+![WhatsApp Image 2024-10-31 at 10 21 58 (1)](https://github.com/user-attachments/assets/6f334932-28c1-43c9-b60c-7c658812e096)
+## Chatting Page
+![WhatsApp Image 2024-10-31 at 10 20 56](https://github.com/user-attachments/assets/002f5b56-8ef0-431f-908a-c5cec05d3090)

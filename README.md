@@ -1,3 +1,6 @@
+
+![WhatsApp_Image_2024-10-13_at_21 29 51-removebg-preview](https://github.com/user-attachments/assets/0fe44290-b422-46ff-9eb3-dea0cef1571e)
+
 # Taletalk (Under Development)
 
 

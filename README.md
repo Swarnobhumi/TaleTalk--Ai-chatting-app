@@ -8,3 +8,5 @@ Image Generation: Users can enhance their messages with contextually relevant im
 PDF Generation: The application provides users with the ability to create professional-quality PDF documents effortlessly. This feature is particularly useful for users who need to share reports, resumes, or other formal documents directly through the messaging interface.
 Message Scheduling: Users can schedule messages to be sent at a later time, ensuring timely communication without the need for manual intervention. This feature is ideal for reminders, birthday wishes, or any other messages that require precise timing.
 By combining these advanced features, the Smart Messaging Assistant aims to revolutionize the way users interact, making communication more efficient, creative, and organized.
+
+![WhatsApp Image 2024-10-31 at 10 21 57](https://github.com/user-attachments/assets/a4f4876d-6948-4634-8e23-0e119cf67430)
